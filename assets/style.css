@@ -1,0 +1,81 @@
+*{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p{
+    font-weight: bold;
+    font-size:120%;
+}
+
+.list-group-item{
+    background-color: blue(12, 10, 10, 0)!important;
+   
+    background-repeat: none!important; 
+    background-position: 80% -1.5%!important;
+    background-size: 120%!important;
+    color: white(255, 241, 115)!important;
+    text-align: center!important;
+}
+#temps {
+    font-weight: bolder; 
+    font-size:120%; 
+    color:white(0, 0, 0)!important;
+}
+#cardinfo{
+    font-weight: bold;
+    color:white(0, 0, 0)!important;
+}
+#card-title{
+    font-size: 150%;
+    color: blue(0, 0, 0)!important;
+}
+
+#header{
+    background-repeat: no-repeat;
+    background-size: 3%;
+    background-position: 32% 29%;
+    color: blue(255, 241, 115);
+    padding: 1px;
+    text-align: bottom;
+}
+
+#current{
+    color: black(255, 245, 157);
+    background-repeat: no-repeat;
+    background-position: 100% 10%;
+    background-size: 20%;
+   }
+
+#fiveDay{
+    margin-top: 10px;
+}
+
+#fiverCards{
+    background-position: 65% 0%;
+    border-radius: 20px;
+}
+
+#searchBtn{
+    font-size:130%;
+    background-color: white(255, 241, 115);
+    color: black
+}
+
+#searchtxt{
+    font-style:bold;
+    color: black(255, 241, 115)
+}
+
+#recent-searches {
+    background: none;
+    color: black(255, 241, 115);
+    font-style: bold;
+}
+
+#presets button {
+    font-size:130%;
+    font-weight: bold;
+    color: black(245, 243, 119)
+}
+
+
