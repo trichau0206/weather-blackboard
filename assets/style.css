@@ -1,33 +1,32 @@
 *{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-
 p{
     font-weight: bold;
     font-size:120%;
 }
 
 .list-group-item{
-    background-color: blue(12, 10, 10, 0)!important;
+    background-color: blue(12, 10, 10, 0);
    
-    background-repeat: none!important; 
-    background-position: 80% -1.5%!important;
-    background-size: 120%!important;
-    color: white(255, 241, 115)!important;
-    text-align: center!important;
+    background-repeat: none; 
+    background-position: 80% -1.5%;
+    background-size: 120%;
+    color: white(255, 241, 115);
+    text-align: center;
 }
 #temps {
     font-weight: bolder; 
     font-size:120%; 
-    color:white(0, 0, 0)!important;
+    color:white(0, 0, 0);
 }
 #cardinfo{
     font-weight: bold;
-    color:white(0, 0, 0)!important;
+    color:white(0, 0, 0);
 }
 #card-title{
     font-size: 150%;
-    color: blue(0, 0, 0)!important;
+    color: blue(0, 0, 0);
 }
 
 #header{
@@ -41,7 +40,6 @@ p{
 
 #current{
     color: black(255, 245, 157);
-    background-repeat: no-repeat;
     background-position: 100% 10%;
     background-size: 20%;
    }
